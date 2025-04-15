@@ -100,7 +100,7 @@ This guide will help you set up and install the necessary dependencies for runni
 
 1. **Clone the Repository:**
    ```bash
-   git clone https://github.com/gjyotin305/CSL2050_CourseProject.git
+   git clone https://github.com/Ramjat19/Image_Retrieval.git
 2. ```bash
    cd CSL2050_CourseProject
 3. ```bash
