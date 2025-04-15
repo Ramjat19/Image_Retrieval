@@ -102,7 +102,7 @@ This guide will help you set up and install the necessary dependencies for runni
    ```bash
    git clone https://github.com/Ramjat19/Image_Retrieval.git
 2. ```bash
-   cd CSL2050_CourseProject
+   cd Image_Retrieval
 3. ```bash
    pip install -r requirements.txt
 4. ```bash
